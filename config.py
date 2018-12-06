@@ -1,0 +1,8 @@
+
+HOST = ''
+USERNAME = ''
+PASSWORD = ''
+PORT = 22
+REMOTE_HOME_DIRECTORY = ""
+PARAMIKO_LOG = "/tmp/paramiko.log"
+EXECUTABLE_FILE_NAME = "tmp"

@@ -1,0 +1,3 @@
+wheel
+PyQt5
+paramiko
